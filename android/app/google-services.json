@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546923483824",
+    "firebase_url": "https://chatappflutter-722f0.firebaseio.com",
+    "project_id": "chatappflutter-722f0",
+    "storage_bucket": "chatappflutter-722f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546923483824:android:ce32d35aa2f3f3e9f02175",
+        "android_client_info": {
+          "package_name": "com.douglasarts.chat_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546923483824-48rj364u1pab9ipb76vht5pmo1pogjtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO15PsffsMz9431-uz-a-XmomjaDfb4nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546923483824-48rj364u1pab9ipb76vht5pmo1pogjtq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546923483824-klklp8343v7m61pibellhfl8fj6gids2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.douglasarts.chatInFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
